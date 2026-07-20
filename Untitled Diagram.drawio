@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="n_ltpyRk5qLRAy0ro5f-">
+    <mxGraphModel dx="786" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8HGKymCHRD99IOox0VuD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student" vertex="1">
+          <mxGeometry height="60" width="320" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="240" />
+            </Array>
+            <mxPoint x="240" y="130" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440.08" y="263" />
+            </Array>
+            <mxPoint x="440.08" y="373" as="sourcePoint" />
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Activities Management&amp;nbsp;&lt;div&gt;System (SAMS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="360" x="160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Activity Organizer" vertex="1">
+          <mxGeometry height="60" width="190" x="120" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Affairs Staff" vertex="1">
+          <mxGeometry height="60" width="190" x="350" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="590" as="sourcePoint" />
+            <mxPoint x="200" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="590" as="sourcePoint" />
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="590" as="sourcePoint" />
+            <mxPoint x="480" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Registration Status&lt;div&gt;Activity Information&lt;/div&gt;&lt;div&gt;Notification&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="425" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Student Information&lt;div&gt;Registration Request&lt;/div&gt;&lt;div&gt;View Activities&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="210" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Reports" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8HGKymCHRD99IOox0VuD-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Activity Info&lt;div&gt;Attendance&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="60" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
